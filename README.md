@@ -1,7 +1,7 @@
 # junit 5 basics
 
 
-1. Declaring simple test method `@Test`
+1. `@Test` Declaring simple test method 
 ```
 @Test
 public void myTest(){
@@ -10,7 +10,7 @@ public void myTest(){
 
 ```
 
-2. Ignore a test method
+2. `@Ignore` ingnore a test method
 
 ```
 @Test
@@ -20,3 +20,5 @@ public void myTest(){
 }
 
 ```
+
+3. 
