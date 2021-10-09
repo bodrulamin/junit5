@@ -1,7 +1,7 @@
 # junit 5 basics
 
 
-1. Declaring simple test method
+1. Declaring simple test method `@Test`
 ```
 @Test
 public void myTest(){
